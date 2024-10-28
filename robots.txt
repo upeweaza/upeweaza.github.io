@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upeweaza.github.io/sitemap_index.upeweaza
